@@ -76,7 +76,7 @@ User question
    [api-portal.tfl.gov.uk](https://api-portal.tfl.gov.uk)).
 5. **Run:**
    ```bash
-   streamlit run app.py
+   streamlit run app.py / python -m streamlit run app.py
    ```
    Opens at `http://localhost:8501`.
 
