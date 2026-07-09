@@ -1,0 +1,125 @@
+Transport for London (TfL) Fare Overview
+
+London’s transport network uses a zonal fare system covering Zones 1 to 9. 
+Zone 1 covers central London, with higher-numbered zones extending towards 
+outer London. Most journeys within central London take place in Zones 1–2.
+
+Payment Methods:
+Passengers can pay using contactless bank cards/devices or an Oyster card 
+with Pay As You Go. Fares are calculated based on the zones travelled, the 
+transport mode used, and the time of travel. Always touch in at the start of 
+a journey and touch out at the end when required to ensure the correct fare 
+is charged. 
+
+Peak and Off-Peak Travel:
+Peak fares generally apply on weekdays during the busiest commuting periods 
+(typically Monday to Friday, 06:30–09:30 and 16:00–19:00). Off-peak fares 
+apply outside these periods, including weekends and public holidays, and are 
+usually cheaper.
+
+Daily and Weekly Fare Capping:
+Contactless and Oyster Pay As You Go users automatically benefit from fare 
+capping. Once the total cost of journeys reaches the daily or weekly cap for 
+the zones travelled, additional eligible journeys are not charged. Caps depend 
+on the zones and services used. :contentReference[oaicite:2]{index=2}
+
+Buses and Trams:
+Bus and tram journeys use a flat Pay As You Go fare rather than the zone 
+system. The Hopper fare allows unlimited bus and tram transfers within one 
+hour when using the same payment method. 
+
+Children and Discounted Travel:
+Children under 11 can travel free on many TfL services when meeting the 
+eligibility requirements, including free travel on buses and trams. Children 
+aged 5–10 and older children may require appropriate Zip Oyster photocards 
+for certain services or discounted travel. 
+
+Fare Checking:
+Passengers can use TfL’s fare finder tools to check the cost of journeys 
+between stations, as fares may vary depending on route, time, and service 
+used. 
+
+Step free access:
+ 94 Tube stations (more than a third), more than 60 London Overground stations and all 41 Elizabeth line stations have step-free access. All DLR stations and tram stops are step-free, and all our buses and the majority of our bus stops are wheelchair-accessible.
+Ticket and Payment Types:
+Contactless: Pay using bank cards or mobile devices (Apple Pay/Google Pay).
+Oyster: Reusable smartcard for Pay As You Go or Season Tickets.
+Hopper Fare: Unlimited bus and tram transfers within one hour using the same payment method.
+Caps: Daily and Weekly fare caps apply automatically when using Contactless or Oyster.
+Travelcards: Paper or electronic tickets covering multiple zones for unlimited travel over a set period.
+Discounts: Railcard holders can add discounts to their Oyster card at station ticket machines.
+
+
+Airport Travel Guide:
+
+1. Heathrow Airport (LHR)
+ Lines: Heathrow Express (Paddington), Elizabeth line, Piccadilly line (Underground).
+Journey Time: Heathrow Express (~15 mins), Elizabeth line (~30-45 mins), Piccadilly line (~50 mins).
+Fares: Heathrow Express (~£25), Elizabeth line (~£13), Piccadilly line (~£5.80). 
+Notes: Oyster/Contactless is accepted on all rail services to Heathrow. Night Tube service is available on the Piccadilly line on Friday and Saturday nights (excluding Terminal 4).
+
+2. Gatwick Airport (LGW)
+ Lines: Gatwick Express (Victoria), Southern and Thameslink (Victoria, London Bridge, St Pancras).
+Journey Time: Gatwick Express (~30 mins), Thameslink/Southern (~30-60 mins depending on origin).
+Fares: Gatwick Express (~£15.70 - £24+), Thameslink/Southern (varies).
+Notes: Oyster/Contactless is accepted on all train services between London and Gatwick.
+
+3. Stansted Airport (STN)
+ Lines: Stansted Express (Liverpool Street).
+Journey Time: ~45-47 mins.
+ Fares: From ~£19.50.
+ Notes: Contactless and Oyster are NOT accepted on the Stansted Express. You must purchase a separate rail ticket.
+
+4. Luton Airport (LTN)
+Lines: Thameslink or East Midlands Railway (from St. Pancras International).
+Journey Time: ~22-45 mins (plus shuttle transfer from Luton Airport Parkway).
+ Fares: Varies by service and advance booking.
+ Notes: Requires a shuttle connection from the station to the terminal.
+
+5. London City Airport (LCY)
+Lines: Docklands Light Railway (DLR).
+Journey Time: ~20 mins (to Bank).
+Fares: Standard DLR/Tube fares (Peak ~£3.70 / Off-peak ~£3).
+Notes: Fully integrated into the TfL network; Contactless and Oyster are accepted.
+
+General Airport Travel Tips:
+Payment: Always check if your specific rail service accepts Contactless/Oyster (e.g., Stansted Express does not).
+Planning: Use the TfL Journey Planner for live status updates and the most efficient routes.
+Night Services: While some lines have limited hours, National Express coaches provide 24/7 links from many airports to central London.
+
+Night Services Guide:
+
+1. Night Tube
+- Operating Nights: Friday and Saturday nights.
+- Times: Services run continuously from around midnight to 05:30 am.
+- Lines and Frequencies:
+  * Victoria Line: Every 10 minutes (full route).
+  * Jubilee Line: Every 10 minutes (full route).
+  * Central Line: Every 10 minutes (White City to Leytonstone); every 20 minutes on outer branches.
+  * Northern Line: Every 8–15 minutes (Charing Cross branch only).
+  * Piccadilly Line: Every 10 minutes (Cockfosters to Heathrow Terminal 5).
+
+2. Night Overground
+- Operating Nights: Friday and Saturday nights.
+- Route: Windrush line between Highbury & Islington and New Cross Gate.
+- Frequency: Every 15 minutes.
+
+3. Night Buses
+- Operating Nights: Every night of the week.
+- Coverage: An extensive network of routes prefixed with "N" (e.g., N29, N73) covers the city when the Tube is not running.
+- Frequency: Typically every 15–30 minutes.
+
+4. General Information
+- Fares: Night Tube travel is charged at off-peak rates.
+- Payment: Contactless, Oyster, and Travelcards are accepted (Cash is not accepted).
+- Safety: Night Tube stations remain staffed, and British Transport Police patrol the network.
+- Engineering Works: Maintenance usually occurs Sunday through Thursday nights; always check the TfL live status page for real-time disruptions.
+
+Frequently Asked Questions:
+- Can I use Apple Pay? Yes, you can use any contactless-enabled device.
+- What if I forget to touch out? You may be charged a maximum fare. Contact TfL support for corrections.
+- Can two people use the same Oyster? No, each passenger needs their own payment method.
+- Do children travel free? Children under 11 travel free on buses and trams when accompanied by an adult.
+- What is the Hopper fare? It allows unlimited bus/tram transfers within 60 minutes for free after the first fare.
+
+
